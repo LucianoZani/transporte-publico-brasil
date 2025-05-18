@@ -1,6 +1,28 @@
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Cache do Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Dados brutos e temporários
+data/external/
 data/processed/
-.env
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Notebooks temporários/output
+*.ipynb_checkpoints
+*.log
+
+# Arquivos de sistema
 .DS_Store
-.ipynb_checkpoints/
+Thumbs.db
+
+# Arquivos do sistema do Windows
+desktop.ini

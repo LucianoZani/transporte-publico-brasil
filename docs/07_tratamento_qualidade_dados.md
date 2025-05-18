@@ -69,4 +69,3 @@ Este projeto segue práticas de Governança de Dados como:
 - **Linhas de Responsabilidade (Accountability)**: cada script/documento será atribuído a uma fase e autor
 - **Lineage (Rastreabilidade)**: dados de entrada, transformação e saída serão documentados
 - **Padrões e Consistência**: nomenclatura uniforme e reutilização de scripts
-

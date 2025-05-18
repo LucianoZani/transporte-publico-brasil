@@ -45,5 +45,5 @@
 ## 4.6 Considerações Técnicas
 
 - Todos os arquivos serão armazenados inicialmente na pasta `/data/raw`.
-- Após tratamento, os dados irão para `/data/processed`.
+- Após tratamento, os dados irão para `/data/processed_`.
 - Fontes que oferecem APIs serão integradas com scripts Python
